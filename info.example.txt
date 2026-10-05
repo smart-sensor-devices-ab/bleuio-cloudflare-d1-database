@@ -1,0 +1,6 @@
+BLEUIO_PORT=/dev/cu.usbmodem4048FDEBA6D01
+HIBOUAIR_SENSOR_ID=220069
+SCAN_INTERVAL_SECONDS=30
+
+CLOUDFLARE_API_URL=https://hibouair-api.youraccount.workers.dev/api/readings
+CLOUDFLARE_API_KEY=APIKEY
